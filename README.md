@@ -1,1 +1,1 @@
-# lzralbu
+I'm a Software Developer interested mainly in Web Development. Here you'll find some of my hobby projects where I employ hyped technologies such as React and boring ones such as Python. You might also find something about Pure Mathematics, so be advised.
